@@ -5,7 +5,7 @@ This repository contains the code examples and demos for PSOC6 MCU family of dev
 
 1. clone the desired code examples repository
  
-	    git clone git@github.com:cypresssemiconductorco/AWS_IoT_Publish_Subscribe_Code_Examples.git
+	    git clone git@github.com:cypresssemiconductorco/AWS_IoT_Greengrass_Code_Examples.git
 
 2. Change to the application folder (for instance publisher)
 
